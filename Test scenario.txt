@@ -1,0 +1,16 @@
+Test scenario
+1.rapido book ride
+-user should select the vehicle type.
+-user should add the drop destination.
+2.udemy certificate
+-user should download the certificate in pdf format.
+-to vetify the certificate should download successfully.
+3.instagram like and comment
+-user should like and comment at posts only.
+-comment should successfully uploaded in the posts comment box.
+4.bank statement
+-bank statement should downloaded in pdf formats.
+-user should select the specific month for that month of statement.
+5.zomato search dishes
+-search functionality should accept the user inputs.
+-after searching the item should display the item image.
